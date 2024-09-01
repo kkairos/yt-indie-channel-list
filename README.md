@@ -18,3 +18,5 @@ Also depending on the livestreamer, they may focus more on their existing commun
 | [StayAtHomeDev](https://www.youtube.com/@stayathomedev) | All | Does tutorials | Nearly Godot-exclusive |
 | [BiteMe Games](https://www.youtube.com/@bitemegames) | All | Mostly YT Gamedev stuff | on Stream |
 | [Artindi](https://www.youtube.com/@Artindi) | All | Mostly YT Gamedev stuff | on Stream |
+| [Retromation](https://www.youtube.com/@Retromation) | Roguelike, roguelite | Let's Play / Let's Try | Probably (biz email in description) |
+
