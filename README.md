@@ -2,6 +2,8 @@
 
 List of indie game-dev friendly youtube channels with some info, and whether they take submissions.
 
+In case you're the sort of person like me who would care, I thought I should let you know I don't mind this list being reposted as long as you link back w/ credit.
+
 | :Channel | Coverage Wheelhouse | Features | Submissions |
 | ----- | :-----: | :----- | :----- |
 | [SoulsborneSeeeker](https://www.youtube.com/@soulsborneseeker/) | Metroidvania, Soulslikes | no notes | Wheelhouse |
