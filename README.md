@@ -2,7 +2,9 @@
 
 List of indie game-dev friendly youtube channels with some info, and whether they take submissions.
 
-In case you're the sort of person like me who would care, I thought I should let you know I don't mind this list being reposted as long as you link back w/ credit.
+Obviously very much a WIP since there's only like four in the list ATM. But I thought it would be good to have something to share with folks.
+
+In case you're the sort of person like me who would care, I don't mind this list being reposted but if you do would appreciate credit.
 
 | :Channel | Coverage Wheelhouse | Features | Submissions |
 | ----- | :-----: | :----- | :----- |
