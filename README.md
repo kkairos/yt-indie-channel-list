@@ -6,9 +6,15 @@ Obviously very much a WIP since there's only like four in the list ATM. But I th
 
 In case you're the sort of person like me who would care, I don't mind this list being reposted but if you do would appreciate credit.
 
+Also depending on the livestreamer, they may focus more on their existing community, but I'm mentioning everything I can think of, not trying to be exhaustive so I'll stop typing this now.
+
+- kkairos
+
 | :Channel | Coverage Wheelhouse | Features | Submissions |
 | ----- | :-----: | :----- | :----- |
 | [SoulsborneSeeeker](https://www.youtube.com/@soulsborneseeker/) | Metroidvania, Soulslikes | no notes | Wheelhouse |
 | [Best Indie Games](https://www.youtube.com/@ClemmyGames) | All | has a broad wheelhouse, goes outside of it a lot | Yes |
 | [GameDev Journey](https://www.youtube.com/@GameDevJourney) | All | Game Dev Journey, This Week in etc. | Predominantly godot |
 | [StayAtHomeDev](https://www.youtube.com/@stayathomedev) | All | Does tutorials | Nearly Godot-exclusive |
+| [BiteMe Games](https://www.youtube.com/@bitemegames) | All | Mostly YT Gamedev stuff | on Stream |
+| [Artindi](https://www.youtube.com/@Artindi) | All | Mostly YT Gamedev stuff | on Stream |
