@@ -10,7 +10,7 @@ Also depending on the livestreamer, they may focus more on their existing commun
 
 - kkairos
 
-| :Channel | Coverage Wheelhouse | Features | Submissions |
+| Channel | Coverage Wheelhouse | Features | Submissions |
 | ----- | :-----: | :----- | :----- |
 | [SoulsborneSeeeker](https://www.youtube.com/@soulsborneseeker/) | Metroidvania, Soulslikes | no notes | Wheelhouse |
 | [Best Indie Games](https://www.youtube.com/@ClemmyGames) | All | has a broad wheelhouse, goes outside of it a lot | Yes |
